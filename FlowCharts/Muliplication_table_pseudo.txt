@@ -1,0 +1,24 @@
+Start
+Input num1 
+while i<=10:
+	output n*i;
+        i+=i;
+Stop
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+

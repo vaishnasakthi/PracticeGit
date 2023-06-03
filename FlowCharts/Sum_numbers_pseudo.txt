@@ -1,0 +1,6 @@
+Start
+Input num1 and num2
+sum=num1+num2
+output sum
+Stop
+
