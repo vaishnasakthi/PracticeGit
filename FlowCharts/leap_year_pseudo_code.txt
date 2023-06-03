@@ -1,0 +1,9 @@
+Pseudo Code : Leap Year
+
+Start
+Input year
+if year%4==0 and year%100==0 or year%400==0:
+     output "Is a leap year"
+else:
+     ouput "Is not a leap year"
+Stop
